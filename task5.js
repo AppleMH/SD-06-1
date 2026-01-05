@@ -1,5 +1,5 @@
 
-
+const friendlist = [];
 // Type your code below this line!
 
 
